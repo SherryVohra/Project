@@ -1,0 +1,12 @@
+pwd
+ls
+echo 1
+ls -l
+ls /
+pwd
+ls
+ls
+ls /
+ls
+ls /
+ls /
